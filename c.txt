@@ -1,6 +1,3 @@
 Aula GIT
-<<<<<<< HEAD
 Alteração local (dev a)
-=======
 Alteração dev b
->>>>>>> ac9e23c2dadbfd6294ebb1e507a32825a17af2f3
